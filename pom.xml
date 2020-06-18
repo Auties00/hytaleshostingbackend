@@ -105,6 +105,11 @@
       <version>3.0.0-M4</version>
       <type>maven-plugin</type>
     </dependency>
+    <dependency>
+      <groupId>com.stripe</groupId>
+      <artifactId>stripe-java</artifactId>
+      <version>19.7.0</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>

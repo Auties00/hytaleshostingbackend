@@ -64,5 +64,4 @@ public class TokenUtils {
         long currentTimeMS = System.currentTimeMillis();
         return (int) (currentTimeMS / 1000);
     }
-
 }
